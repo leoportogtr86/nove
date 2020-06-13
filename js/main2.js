@@ -5,8 +5,8 @@ let errado = document.querySelector('#errado')
 
 
 var sampler = new Tone.Sampler({
-	"C3" : "../assets/audio/acertou.mp3",
-	"C#3" : "../assets/audio/errou.mp3"
+	"C3" : "./assets/audio/acertou.mp3",
+	"C#3" : "./assets/audio/errou.mp3"
 
 }, function(){
 	//sampler will repitch the closest sample
