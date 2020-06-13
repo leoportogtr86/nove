@@ -46,7 +46,7 @@ var sampler = new Tone.Sampler({
 
         setTimeout(function () {
 
-            window.location = '../views/q7.html'
+            window.location = './q7.html'
             
         }, 2000)
         

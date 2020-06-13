@@ -2,6 +2,6 @@ let iniciar = document.querySelector('#iniciar')
 
 iniciar.onclick = ()=>{
 
-    window.location = '../views/q1.html'
+    window.location = './q1.html'
 
 }
